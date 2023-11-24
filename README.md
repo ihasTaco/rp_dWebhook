@@ -73,8 +73,8 @@ You can do many things with this resource, if you have the [knowledge](https://d
 This is also very easy to use just send a [webhook url](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) and the script will take care of the rest!
 
 ### Event Usage Example
-
-![Server-side](https://img.shields.io/badge/server-side-brightgreen) ![Client-side](https://img.shields.io/badge/client-side-blue)
+![Server](https://img.shields.io/static/v1.svg?label=&message=Server&color=blue)
+![Client](https://img.shields.io/static/v1.svg?label=&message=Client&color=green)
 
 ``` LUA
     local webhook = "https://discord.com/api/webhooks/.../..."
