@@ -5,7 +5,7 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 name "rp_dWebhook"
 author 'ihasTacoFML'
 description "A Simple Discord Webhook Utility"
-url "https://github.com/kibook/weathersync"
+url "https://github.com/ihasTaco/rp_dWebhook"
 
 server_script {
     'server/server.lua'
